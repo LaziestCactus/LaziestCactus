@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I'm Richard Cao
 
-<!--
-**LaziestCactus/LaziestCactus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **UCLA Computer Science**  
+🛰️ **NASA ELFIN CubeSat Software Engineering Intern Lead (Summer 2025)**  
+🧠 **Researcher – LoRA modular learning, AI safety, and model composition**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+- 🥫 **[FoodBank](https://github.com/LaziestCactus/FoodBank)**  
+  Full-stack donation and food-distribution platform built with React + Firebase + AI item-tracking.  
+  Enables nonprofits to visualize inventory, detect duplicate items, and optimize distribution routes.
+
+- 🤖 **[sumLoRA](https://github.com/LaziestCactus/sumLoRA)**  
+  Research on *safe LoRA composition* using RMS similarity metrics.  
+  Demonstrates modular learning across independent datasets without retraining.
+
+- 🏠 **[BruinDen](https://github.com/LaziestCactus/BruinDen)**  
+  UCLA student housing web app — secure login via UCLA SSO, Google Maps integration, dynamic filters, and roommate ratings.  
+
+- 📘 **[QuizGenerator](https://github.com/LaziestCactus/QuizGenerator)**  
+  AI-powered quiz builder that turns PDF study materials into multiple-choice questions.  
+  Uses FastAPI, PyTorch, and OpenAI API for NLP-driven question synthesis.
+
+- 🧭 **[BreakFreeInnovator](https://github.com/LaziestCactus/BreakFreeInnovator)**  
+  Generates personalized productivity achievements based on user goals and progress.  
+  Integrates Arduino sensors + fine-tuned BERT for context-aware motivation tracking.
+
+- 📖 **[ReadingExtension](https://github.com/LaziestCactus/ReadingExtension)**  
+  Browser extension that summarizes and quizzes articles in real-time using GPT models and embeddings.  
+
+---
+
+### 🧩 Tech Stack
+
+**Languages:** Python, C++, TypeScript, JavaScript, C, Java  
+**Frameworks:** React · Node.js · FastAPI · Flask · PyTorch · Scikit-learn  
+**Tools:** Docker · Git · AWS · Firebase · CI/CD · Kubernetes  
+
+---
+
+### 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=LaziestCactus)
+![GitHub Streak](https://streak-stats.demolab.com/?user=LaziestCactus)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaziestCactus&layout=compact&theme=github_dark)
+
+---
+
+📫 **Connect with me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/zhanhaocao1717)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Laziest)
