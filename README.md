@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Richard Cao
+# 👋 Hi, I'm Richard (Zhanhao) Cao
 
 🎓 **UCLA Computer Science**  
 🛰️ **NASA ELFIN CubeSat Software Engineering Intern Lead (Summer 2025)**  
@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 - 🥫 **[FoodBank](https://github.com/LaziestCactus/FoodBank)**  
   Full-stack donation and food-distribution platform built with React + Firebase + AI item-tracking.  
@@ -37,14 +37,6 @@
 **Languages:** Python, C++, TypeScript, JavaScript, C, Java  
 **Frameworks:** React · Node.js · FastAPI · Flask · PyTorch · Scikit-learn  
 **Tools:** Docker · Git · AWS · Firebase · CI/CD · Kubernetes  
-
----
-
-### 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=LaziestCactus)
-![GitHub Streak](https://streak-stats.demolab.com/?user=LaziestCactus)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaziestCactus&layout=compact&theme=github_dark)
 
 ---
 
