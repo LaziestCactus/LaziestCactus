@@ -8,10 +8,6 @@
 
 ### Featured Projects
 
-- 🥫 **[FoodBank](https://github.com/LaziestCactus/FoodBank)**  
-  Full-stack donation and food-distribution platform built with React + Firebase + AI item-tracking.  
-  Enables nonprofits to visualize inventory, detect duplicate items, and optimize distribution routes.
-
 - 🤖 **[sumLoRA](https://github.com/LaziestCactus/sumLoRA)**  
   Research on *safe LoRA composition* using RMS similarity metrics.  
   Demonstrates modular learning across independent datasets without retraining.
