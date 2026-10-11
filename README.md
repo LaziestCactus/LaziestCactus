@@ -2,8 +2,7 @@
 
 CS student at UCLA (Math concentration) and incoming M.Eng. in EECS at UC Berkeley. I like working close to the system: low-level infrastructure, developer tooling for AI agents, and efficient fine-tuning of LLMs.
 
-- **Now:** System Software Engineer Intern at **Qualcomm**, building an IPC library for ARM TrustZone
-- **Before:** Software Engineer Intern at **TikTok** (agent tooling and knowledge retrieval), software intern lead for the **ELFIN CubeSat** mission (NASA), student researcher at the **UCLA AI Lab**
+- **Experience:** System Software Engineer Intern at **Qualcomm** (an IPC library for ARM TrustZone), Software Engineer Intern at **TikTok** (agent tooling and knowledge retrieval), software intern lead for the **ELFIN CubeSat** mission (NASA), student researcher at the **UCLA AI Lab**
 - **Paper:** [Efficient Modular Learning through Naive LoRA Summation](https://arxiv.org/abs/2508.11985) (arXiv 2508.11985)
 
 ### Projects
