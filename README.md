@@ -1,20 +1,12 @@
-## Hi, I'm Richard Cao
+### Hi, I'm Richard
 
-CS student at UCLA (Math concentration) and incoming M.Eng. in EECS at UC Berkeley. I like working close to the system: low-level infrastructure, developer tooling for AI agents, and efficient fine-tuning of LLMs.
+CS at UCLA (Math concentration), incoming M.Eng. in EECS at UC Berkeley. I like working close to the system: low-level infrastructure, tools for AI agents, and efficient LLM fine-tuning.
 
-- **Experience:** System Software Engineer Intern at **Qualcomm** (an IPC library for ARM TrustZone), Software Engineer Intern at **TikTok** (agent tooling and knowledge retrieval), software intern lead for the **ELFIN CubeSat** mission (NASA), student researcher at the **UCLA AI Lab**
-- **Paper:** [Efficient Modular Learning through Naive LoRA Summation](https://arxiv.org/abs/2508.11985) (arXiv 2508.11985)
+- **Qualcomm**, System Software Engineer Intern (Summer 2026): IPC library for ARM TrustZone
+- **TikTok**, Software Engineer Intern (Spring 2026): agent tooling and knowledge retrieval
+- **ELFIN CubeSat** (NASA), Software Engineer Intern and team lead (Summer 2025)
+- **UCLA AI Lab**, Student Researcher: [paper on composing LoRA adapters by addition](https://arxiv.org/abs/2508.11985)
 
-### Projects
-
-| | |
-|---|---|
-| [**sumLoRA**](https://github.com/LaziestCactus/sumLoRA) | Code for the paper above. LoRA adapters trained on separate domains can be added together without retraining. |
-| [**BruinDen**](https://github.com/LaziestCactus/BruinDen) | Off-campus housing and sublease platform for UCLA students, built by a team of 6. Next.js, Prisma, MongoDB, Google Maps |
-| [**QuizCreator**](https://github.com/LaziestCactus/QuizCreator) | Turns PDF notes into multiple-choice quizzes using RAG. LangChain, Gemini on Vertex AI, ChromaDB, Streamlit |
-| [**BreakfreeInnovator**](https://github.com/LaziestCactus/BreakfreeInnovator) | A fine-tuned BERT model that classifies what you're working on and returns a matching achievement |
-
-**Languages:** Python, C++, C, Java, Go, JavaScript/TypeScript
-**Tools:** PyTorch, Transformers, PEFT, MCP, FastAPI, React, Docker, Linux
+Python · C++ · C · Java · Go · TypeScript · PyTorch · Linux
 
 [richardcao.dev](https://richardcao.dev) · [LinkedIn](https://www.linkedin.com/in/zhanhaocao1717/)
